@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="03725920-86bb-48ae-90b4-d2f9cf58d64f" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../bai6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/.idea/bai6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/.idea/Bai1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai1/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/.idea/Bai2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/.idea/3b3452e3974dac9ec3b6b0de6f602222.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/.idea/Bai3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/4cc2fbb9x7a928c300e0f69051.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/Index.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/Index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Baitap/Bai3/Ảnh màn hình 2025-05-26 lúc 10.28.46.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Thuchanh/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Thuchanh/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Thuchanh/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Thuchanh/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../bai6/Thuchanh/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="2xev6DG2Q49hftcbiSZpUnPFnLC" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-WS-251.25410.117" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="03725920-86bb-48ae-90b4-d2f9cf58d64f" name="Changes" comment="" />
+      <created>1748311176052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1748311176052</updated>
+      <workItem from="1748311177126" duration="2633000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
